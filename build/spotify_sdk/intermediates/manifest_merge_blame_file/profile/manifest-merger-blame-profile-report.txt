@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.minimalme.spotify_sdk" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+6
+7    <application>
+7-->/Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:3:5-7:19
+8        <activity
+8-->/Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:4:9-6:75
+9            android:name="com.spotify.sdk.android.authentication.LoginActivity"
+9-->/Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:5:13-80
+10            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+10-->/Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:6:13-72
+11    </application>
+12
+13</manifest>

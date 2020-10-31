@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:3:5-7:19
+activity#com.spotify.sdk.android.authentication.LoginActivity
+ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:4:9-6:75
+	android:theme
+		ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:6:13-72
+	android:name
+		ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml:5:13-80
+uses-sdk
+INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammadassad/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-1.0.0/android/src/main/AndroidManifest.xml
