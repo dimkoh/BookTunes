@@ -5,12 +5,14 @@ The project is based on flutter, which needs to be installed locally. (https://f
 
 ## Create and Add Spotify API Tokens
 For the Spotify Integration it is also necessary to add a .env file to the base of the project and add the following parameters:
+
 "
 CLIENT_ID=XXXXXXX
 
 REDIRECT_URL=XXXXXXX
 
 SECRET=XXXXXX
+
 "
 
 Where the XXXXXX are replaced with the client id, redirect url and secret created in the spotify developer program. (https://developer.spotify.com/)
